@@ -5,7 +5,7 @@
 
 # [Proyecto Analisis dolar oficial vs dolar blue ](#)
   
-# [Visualizacion con Power Bi :chart_with_upwards_trend:, Analisis entre el dólar oficial y dolar blue :memo:  ](#)
+# [Visualizacion con Power Bi :dollar:  ](#)
 <H2> :point_down: Podes encontrar el Tablero aca! ✈️</H2>
 
 :city_sunrise: [Tablero](https://drive.google.com/drive/folders/1O66eT_S1a3OfUZfrmFCKZR9hkpxc5Kvt?usp=sharing) - Power bi 
