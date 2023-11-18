@@ -12,4 +12,19 @@
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## Table of Contents
+## About
+<H3> :white_check_mark: Objetivos: </H3>
+<H4> Conectar con API de BCRA para esto cree una API privada que provee los datos y que conecta con las credenciales necesarias. </H4>
+<H4> Realizar el tablero en Power bi. </H4>
+
+- `Conectar con API de BCRA para esto cree una API privada que provee los datos y que conecta con las credenciales necesarias.` 
+- `Realizar el tablero en Power bi.` 
+- `Responder: Dia con mayor variacion en la brecha entre USD oficial y Blue` 
+
+<div align = "center">
+<img src="/img/1.jpg" width="100%">
+</div>
+<div align = "center">
+<img src="/img/2.jpg" width="100%">
+</div>
+<div align = "center">
