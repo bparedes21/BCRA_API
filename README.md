@@ -11,7 +11,7 @@
 :city_sunrise: [Tablero](https://drive.google.com/drive/folders/1O66eT_S1a3OfUZfrmFCKZR9hkpxc5Kvt?usp=sharing) - Power bi 
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
+</div>
 ## About
 <H3> :white_check_mark: Objetivos: </H3>
 <H4> Conectar con API de BCRA para esto cree una API privada que provee los datos y que conecta con las credenciales necesarias. </H4>
