@@ -14,17 +14,20 @@
 </div>
 ## About
 <H3> :white_check_mark: Objetivos: </H3>
-<H4> Conectar con API de BCRA para esto cree una API privada que provee los datos y que conecta con las credenciales necesarias. </H4>
-<H4> Realizar el tablero en Power bi. </H4>
+<H4> * Conectar con API de BCRA para esto cree una API privada que provee los datos y que conecta con las credenciales necesarias. </H4>
+<H4> * Realizar el tablero en Power bi. </H4>
+<H4> * Responder: </H4>
 
-- `Conectar con API de BCRA para esto cree una API privada que provee los datos y que conecta con las credenciales necesarias.` 
-- `Realizar el tablero en Power bi.` 
-- `Responder: Dia con mayor variacion en la brecha entre USD oficial y Blue` 
+- `Dia con mayor variacion en la brecha entre USD oficial y Blue.` 
+- `Dias con mayor volatilidad.` 
+- `Dia de la semana promedio con mayor variacion.` 
 
 <div align = "center">
-<img src="/img/1.jpg" width="100%">
+<img src="/img/presentacion1_Página_2.jpg" width="100%">
 </div>
 <div align = "center">
-<img src="/img/2.jpg" width="100%">
+<img src="/img/presentacion1_Página_3.jpg" width="100%">
 </div>
 <div align = "center">
+<img src="/img/presentacion1_Página_4.jpg" width="100%">
+</div>
