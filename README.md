@@ -8,16 +8,8 @@
   
 # [Visualizacion con Power Bi :dollar:  ](#)
 
-Implementamos una API privada que se conecta con el Banco Central de la República Argentina (BCRA) para obtener datos en tiempo real del dólar oficial y del dólar blue. La conexión se realiza de manera segura utilizando las credenciales necesarias.
+**Implemente una API privada** que se conecta con el Banco Central de la República Argentina (BCRA) para obtener datos en tiempo real del dólar oficial y del dólar blue. La conexión se realiza de manera segura utilizando las credenciales necesarias.
 
- Desarrollamos un tablero interactivo en Power BI que ofrece una visualización clara y detallada de la evolución del dólar oficial y del dólar blue a lo largo del tiempo.
-
-
-   - **Día con Mayor Variación en la Brecha**: Identificamos y destacamos el día en que la brecha entre el dólar oficial y el dólar blue alcanzó su máximo.
-   - **Días con Mayor Volatilidad**: Analizamos y visualizamos los días en los que se observa la mayor volatilidad en las tasas de cambio.
-
-
-### Objetivos ✅
 <H2>  Podes encontrar  aca!  :point_down: el Tablero ✈️</H2>
 
 :city_sunrise: [Tablero](https://drive.google.com/drive/folders/1O66eT_S1a3OfUZfrmFCKZR9hkpxc5Kvt?usp=sharing) - Power bi 
