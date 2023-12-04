@@ -15,7 +15,7 @@
 
 ## About
 
-<H3> :white_check_mark: Objetivos: </H3>
+<H3> Objetivos :white_check_mark: : </H3>
 <H4> * Conectar con API de BCRA para esto cree una API privada que provee los datos y que conecta con las credenciales necesarias. </H4>
 <H4> * Realizar el tablero en Power bi. </H4>
 <H4> * Responder: </H4>
